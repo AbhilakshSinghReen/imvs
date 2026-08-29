@@ -1,0 +1,9 @@
+# Parameters last read at: 19:04:49 - 18/04/2026
+break_constraint_error: 0.0001
+learning_rate: 0.01
+max_iterations: 100
+regularization_factor: 0.1
+weight_decay: 0.0001
+window:
+  level: 90
+  width: 120

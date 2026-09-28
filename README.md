@@ -2,7 +2,7 @@
 
 **HAIC Workshop, MICCAI 2026** · [Paper (arXiv:2609.16775)](https://arxiv.org/abs/2609.16775) · [Demo video](https://www.youtube.com/watch?v=4R_ChB12o-c)
 
-![IMVS: scribble, propagate, adapt](assets/imvs-demo.gif)
+![IMVS: scribble, propagate, adapt](assets/imvs-preview.gif)
 
 > **Status: code preview.** The runnable release is planned for **October 31**. It will include:
 > a one-line install in a container, weights on Hugging Face, ONNX and TensorRT conversion
